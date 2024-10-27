@@ -1,0 +1,5 @@
+Hello, world!
+This is a test text to check if get_next_line() will read it
+
+ok!
+Good         bye!!
